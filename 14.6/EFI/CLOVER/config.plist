@@ -272,7 +272,7 @@
 			<key>Inject</key>
 			<integer>1</integer>
 			<key>ResetHDA</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>FakeID</key>
 		<dict>
@@ -418,7 +418,7 @@
 				<key>Comment</key>
 				<string>Enable TRIM for SSD</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				AEFQUExFIFNTRAA=
